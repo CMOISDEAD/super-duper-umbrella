@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "56e6bf3ddc9d774c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d995d560d4f6a291",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "daf0517921ae961e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cdc3ab0ed3240f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d47b879f3208937",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c6fa811de563538",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b39dba992e7ac20",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8bbf1c49e655bbee",
+    "type": "split",
+    "children": [
+      {
+        "id": "01d972f996ae9262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18f8855f9e28ad27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "452027d22fee9a0f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efe571b955ccca2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "650a028a4ee18c17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d995d560d4f6a291",
+  "lastOpenFiles": [
+    "Matematicas discretas/notas/Unidad 1/Viernes 12 Agosto/apuntes.md",
+    "Matematicas discretas/Matemáticas discreta y Combinatoria Una Introducción con Aplicaciones 3ed   ( PDFDrive ).pdf"
+  ]
+}
