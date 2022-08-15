@@ -1,0 +1,28 @@
+@data
+  title: Calculo diferencial
+  date: 2022-08-14
+@end
+
+* Temas
+
+  ~ Funciones.
+  ~~ Definicon.
+  ~~ Operaciones.
+  ~~ Tipos de funciones y graficas.
+  ~ Limites.
+  ~~ Limites laterales.
+  ~~ Propiedades de los limites.
+  ~~ Forma indeterminada.
+  ~~ Limites trignometricos.
+  ~~ Continuidad.
+  ~ Derivadas.
+  ~~ Recta tangente.
+  ~~ Propiedades de las derivadas.
+  ~~ Regla de la cadena.
+  ~~ Derivadas implicitas.
+  ~ Aplicaciones de la derivada.
+  ~~ Analisis de graficas.
+  ~~ Razones de cambio relacionadas.
+  ~~ Modificadores de lagrange.
+
+* Apuntes de clases

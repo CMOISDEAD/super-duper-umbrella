@@ -1,0 +1,26 @@
+@data
+  title: Estructura de datos
+  date: 2022-08-14
+@end
+
+* Temas
+
+  ~ Tablas Hash.
+  ~~ Matrices inversas.
+  ~~ Generic Collections.
+  ~ Estructura de datos lineales.
+  ~~ Linked lists (sencillas o dobles).
+  ~~ Colas y Pilas.
+  ~~ Colas de prioridad.
+  ~ __ no limitada.
+  ~~ Arboles binarios y sus operaciones.
+  ~~ Arboles AUL.
+  ~~ Arboles rojo negro.
+  ~~ Arboles B y B+.
+  ~ Grafos
+  ~~ Concepto de grafos.
+  ~~ Grafos dirigidos y no dirigidos.
+  ~~ Busqueda de grafos.
+  ~~ Algoritmo dijkstra y kruskal.
+
+* Apuntes de clases
